@@ -1,3 +1,5 @@
+🌱 I’m currently learning JPA, SpringSecurity
+
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=w124564)](https://solved.ac/w124564/)
 # 💻 Skill
 <div> 
