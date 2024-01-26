@@ -1,8 +1,8 @@
 
 <div align=center>
-  <h3>
-    효율적인 것을 추구하며 새로운 도전에 망설임 없는 개발자 윤민재입니다!
-  </h3>
+  <h4>
+    🙌Hi! I'm minjae Yun</br>
+  </h4>
 <br>
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=w124564)](https://solved.ac/w124564/)
