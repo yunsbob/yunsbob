@@ -1,7 +1,7 @@
 
 <div align=center>
   <h4>
-    🙌Hi! I'm minjae Yun</br>
+    🙌Hi! I'm Minjae Yun
   </h4>
 <br>
 
