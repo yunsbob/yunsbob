@@ -1,14 +1,10 @@
 
 <div align=center>
   <h4>
-    🙌Hi! I'm Minjae Yun
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=MinjaeYun&fontSize=90&fontColor=ffffff"/>
   </h4>
-<br>
-
+  
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=w124564)](https://solved.ac/w124564/)
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img src="https://github-readme-stats.vercel.app/api?username=yunsbob&show_icons=true&theme=material-palenight&hide_border=true&bg_color=000000&icon_color=fff&text_color=ffffff&title_color=ffffff&count_private=true" />
-</a>
 
   <h2>
     💻 Skills
