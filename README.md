@@ -2,6 +2,7 @@
   <h4>
     <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=MinjaeYun&fontSize=90&fontColor=ffffff"/>
   </h4>
+</div>
 
 ---
 ### 💻 Skills
