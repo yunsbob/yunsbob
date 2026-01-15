@@ -4,6 +4,10 @@
   </h4>
 </div>
 
+### ☎️ Contact
+
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?&style=for-the-badge&logo=Gmail&logoColor=white)](mailto:w12456422@gmail.com)
+
 ### 💻 Skills
   
 #### Language
@@ -16,17 +20,18 @@
 ![Spring](https://img.shields.io/badge/spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/springBoot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
 ![Django](https://img.shields.io/badge/django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi&logoColor=white)
 ![Node.js](https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 
 #### Front-end
-![Angular](https://img.shields.io/badge/angular-DD1100?style=for-the-badge&logo=angular&logoColor=white)
-![Vue.js](https://img.shields.io/badge/vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white)
-![Babylon.js](https://img.shields.io/badge/babylon.js-BB463B?style=for-the-badge&logo=babylon.js&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white)
 
 #### Database
 ![MariaDB](https://img.shields.io/badge/mariadb-4479A1?style=for-the-badge&logo=MariaDB&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Redis](https://img.shields.io/badge/redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![MongoDB](https://img.shields.io/badge/-MongoDB-13aa52?style=for-the-badge&logo=mongodb&logoColor=white)
+![InfluxDB](https://img.shields.io/badge/influxdb-22ADF6?logo=influxdb&logoColor=white&style=for-the-badge)
 
 #### Tool
 ![Git](https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white)
