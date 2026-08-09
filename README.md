@@ -15,7 +15,7 @@
 
 | 기관 | 기간 | 담당 |
 | --- | --- | --- |
-| IGIKorea | 2024.06.17 ~ 재직중 | Spring, NestJS, FastAPI, React 풀스택 개발<br>AWS기반 Kubernetes 클라우드 인프라, 온프레미스 인프라 구축 및 운영<br>Monolith, MSA 컨테이너 구축 및 운영 |
+| 빅베넷 | 2024.06.17 ~ 2026.07.31 | Spring, NestJS, FastAPI, React 풀스택 개발<br>AWS기반 Kubernetes 클라우드 인프라, 온프레미스 인프라 구축 및 운영<br>Monolith, MSA 컨테이너 구축 및 운영 |
 | SSAFY (삼성 청년 SW 아카데미) | 2023.01.04 ~ 2023.12.29 | Spring, Node.js 백엔드 개발 |
 
 ## 💻 Skills
